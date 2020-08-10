@@ -1269,13 +1269,151 @@ blockquote {
   text-align: center;
   color: #272727;
 }
+.cid-s7hIljItNN {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #eeeeee;
+}
+.cid-s7hIljItNN .mbr-subtitle {
+  color: #f38881;
+  margin-bottom: 10px;
+  font-weight: 800;
+}
+.cid-s7hIljItNN .mbr-subtitle.display-4 {
+  font-size: 13px;
+  line-height: 24px;
+  letter-spacing: 2px;
+}
+.cid-s7hIljItNN .mbr-section-title {
+  margin-bottom: 20px;
+  color: #052354;
+  font-weight: 700;
+}
+.cid-s7hIljItNN .mbr-section-title.display-2 {
+  font-size: 35px;
+  line-height: 45px;
+  letter-spacing: -0.5px;
+}
+.cid-s7hIljItNN .mbr-section-text {
+  line-height: 1.5;
+  margin-top: 20px;
+  color: #0c58d5;
+}
+.cid-s7hIljItNN .row-item {
+  margin-bottom: 2rem;
+  border-radius: 8px;
+}
+.cid-s7hIljItNN .row-item:hover .wrapper {
+  cursor: pointer;
+  -webkit-transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.cid-s7hIljItNN .row-item:hover .wrapper::before {
+  z-index: 0;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
+  -webkit-transform-origin: top;
+  transform-origin: top;
+  -webkit-transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.cid-s7hIljItNN .row-item:hover .wrapper .card-img {
+  z-index: 1;
+  position: relative;
+  -webkit-transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.cid-s7hIljItNN .row-item:hover .wrapper .card-img span {
+  z-index: 1;
+  color: #ffffff !important;
+  -webkit-transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.cid-s7hIljItNN .row-item:hover .wrapper .mbr-card-title {
+  position: relative;
+  z-index: 1;
+  color: #ffffff !important;
+  -webkit-transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.cid-s7hIljItNN .row-item .wrapper {
+  padding: 40px 0 30px;
+  background: #ffffff;
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+}
+.cid-s7hIljItNN .row-item .wrapper::before {
+  border-radius: 8px;
+  position: absolute;
+  content: "";
+  left: 0px;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  visibility: visible;
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: top;
+  transform-origin: top;
+  background-color: #199bfc;
+  -webkit-transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.cid-s7hIljItNN .row-item .wrapper .card-img span {
+  color: #199bfc;
+}
+.cid-s7hIljItNN .row-item .wrapper .mbr-iconfont {
+  font-size: 50px;
+  -webkit-transition: color 0.3s;
+  transition: color 0.3s;
+}
+.cid-s7hIljItNN .row-item .wrapper .mbr-card-title {
+  color: #052354;
+  font-weight: 700;
+}
+.cid-s7hIljItNN .row-item .wrapper .mbr-card-title.display-7 {
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: -0.5px;
+}
+.cid-s7hIljItNN img {
+  width: 90%;
+  border-radius: 8px;
+}
+.cid-s7hIljItNN .btn {
+  border-radius: 3px;
+  padding: 12px 40px;
+  font-weight: 700;
+}
+.cid-s7hIljItNN .btn.display-4 {
+  font-size: 12px;
+  line-height: 24px;
+  letter-spacing: 1px;
+}
+.cid-s7hIljItNN .btn-primary:hover {
+  background-color: #28303f !important;
+  border-color: #28303f !important;
+  color: #093d95 !important;
+}
+@media (max-width: 768px) {
+  .cid-s7hIljItNN .mbr-section-title {
+    text-align: left;
+  }
+  .cid-s7hIljItNN img {
+    width: 100%;
+  }
+}
 .cid-rYq8HyTRPD {
   padding-top: 6rem;
   padding-bottom: 2rem;
   background-color: #eeeeee;
 }
 .cid-rYq8HyTRPD .container > .row {
-  background-color: #199bfc;
+  background-color: #093d95;
   border-radius: 10px;
 }
 @media (min-width: 1200px) {
@@ -4345,7 +4483,7 @@ blockquote {
 .cid-s2RgGZzHoR {
   padding-top: 0px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/countries-list-1-2000x1721.png");
+  background-image: url("../../../assets/images/countries-list-1-2000x1720.png");
 }
 @media (max-width: 768px) {
   .cid-s2RgGZzHoR .mbr-text,
