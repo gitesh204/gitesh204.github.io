@@ -1,11 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://thecanopus.co/index.html</loc>
-	</url>
-	<url>
 		<loc>https://thecanopus.co/work.html</loc>
 	</url>
 	<url>
 		<loc>https://thecanopus.co/freebies.html</loc>
+	</url>
+	<url>
+		<loc>https://thecanopus.co/index.html</loc>
+	</url>
+	<url>
+		<loc>https://thecanopus.co/custom-website.html</loc>
 	</url>
 </urlset>
